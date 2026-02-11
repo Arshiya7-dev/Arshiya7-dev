@@ -2,7 +2,7 @@
 
 ### A passionate frontend developer  
 
-![fancy](https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=90&section=header&text=My%20Skills&fontSize=30&fontColor=ffffff&animation=twinkling)
+![fancy](https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=80&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff&animation=blink)
 
 
 
