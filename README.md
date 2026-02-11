@@ -2,6 +2,10 @@
 
 ### A passionate frontend developer  
 
+![fancy](https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=90&section=header&text=My%20Skills&fontSize=30&fontColor=ffffff&animation=twinkling)
+
+
+
 ---
 
 ### 👨‍💻 About Me  
