@@ -1,5 +1,7 @@
 # Hi 👋, I'm Arshiya Hasani  
 
+<img align="right" alt="aries" width="500"  src="https://i.redd.it/n8agw6z2smyb1.gif">
+
 ### A passionate frontend developer  
 
 ---
@@ -32,8 +34,13 @@
 
 ---
 
+> 💡 *Learning step by step, building project by project.*
+
+---
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiya7-dev&" alt="arshiya7-dev" /></p>
 
 ---
 
-> 💡 *Learning step by step, building project by project.*
+<img align="centet" alt="aries" width="100%" hight="600" src="https://images.steamusercontent.com/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+
