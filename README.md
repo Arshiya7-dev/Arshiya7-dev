@@ -4,6 +4,8 @@
 
 ### A passionate frontend developer  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiya7-dev&label=Profile%20views&color=0e75b6&style=flat" alt="arshiya7-dev" /> </p>
+
 ---
 
 ### 👨‍💻 About Me  
